@@ -3,21 +3,21 @@
 This README file contains a summary of DefiEdge's key milestones, integrations, and partnerships, along with relevant links and screenshots.
 
 ## 🔥 Testnet Launch on Uniswap V3
-**Date:** Jan 11, 2022  
+
 [🔗 View Tweet](https://x.com/DefiEdge/status/1480627763694374918)  
 ![Testnet Launch](screenshots/defiedge_screenshot_1.png)
 
 ---
 
 ## 🔗 Chainlink Integration
-**Date:** Dec 21, 2022  
+
 [🔗 View Tweet](https://x.com/DefiEdge/status/1605338361421758464)  
 ![Chainlink Integration](screenshots/defiedge_screenshot_2.png)
 
 ---
 
 ## 🏦 @arbitrum STIP Incentives
-**Date:** Recent  
+
 [🔗 View Tweet](https://x.com/DefiEdge/status/1767258819548049676)  
 ![Arbitrum STIP](screenshots/defiedge_screenshot_3.png)
 
@@ -37,7 +37,7 @@ This README file contains a summary of DefiEdge's key milestones, integrations, 
 ---
 
 ## 💰 $OP Token Rewards
-**Date:** Jan 18, 2023  
+ 
 [🔗 View Tweet](https://x.com/DefiEdge/status/1615422491056574464)  
 ![OP Rewards](screenshots/defiedge_screenshot_5.png)
 
