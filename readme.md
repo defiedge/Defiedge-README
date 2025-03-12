@@ -60,6 +60,11 @@ This repository contains a list of DefiEdge's key announcements, integrations, a
 [View Tweet](https://x.com/DefiEdge/status/1625163304548331522)  
 ![MVX-USDC Management](screenshots/mvxusdcmanagement.png)
 
+### SBT Campaign with xHashtag
+[View Tweet](https://x.com/DefiEdge/status/1632383267088527361)  
+![MVX-USDC Management](screenshots/xhashtagio.png)
+
+
 ### Dune Dashboard on Optimism
 [View Tweet](https://x.com/DefiEdge/status/1625874376217485314)  
 ![Dune Dashboard](screenshots/dune.png)
