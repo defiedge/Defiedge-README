@@ -1,6 +1,7 @@
 # DefiEdge Announcements and Integrations
 
-This repository contains a list of DefiEdge's key announcements, integrations, and partnerships along with corresponding screenshots.
+## Defiedge Demo
+[View Demo](https://www.youtube.com/watch?v=wR3wDv9h9EI)
 
 ## Important Events
 
