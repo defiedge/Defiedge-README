@@ -171,9 +171,9 @@
 [View Tweet](https://x.com/arb_universe/status/1752984578699169819?s=46)
 
 
-### Partnership with Nexus Mutual
+### Nexus Mutual
 [View Tweet](https://x.com/DefiEdge/status/1716467293998489660)  
-![Nexus Mutual Partnership](screenshots/nexusmutual.png)
+
 
 
 
