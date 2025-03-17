@@ -3,37 +3,6 @@
 ## Defiedge Demo
 [View Demo](https://www.youtube.com/watch?v=wR3wDv9h9EI)
 
-# Partnership Announcements
-
-### PancakeSwap 
-[View Tweet](https://x.com/pancakeswap/status/1733108453424648666?s=46)
-
-### Thena
-[View Tweet](https://x.com/thenafi_/status/1758459923669594257?s=46)
-
-### Camelot
-[View Tweet](https://x.com/camelotdex/status/1689899001112383488?s=46)
-
-### Silo Labs
-[View Tweet](https://x.com/silofinance/status/1771805002388119822?s=46)
-
-### Lodestar Finance
-[View Tweet](https://x.com/lodestarfi/status/1770007022358110708?s=46)
-
-### Umami 
-[View Tweet](https://x.com/umamifinance/status/1767883318706536875?s=46)
-
-### Lexer Markets
-[View Tweet](https://x.com/umamifinance/status/1767883318706536875?s=46)
-
-### BaseSwap
-[view Tweet](https://x.com/umamifinance/status/1767883318706536875?s=46)
-
-### JonesDAO
-[view Tweet](https://x.com/jonesdao_io/status/1737158816880296351?s=46)
-
-### Arbitrum Universe
-[View Tweet](https://x.com/arb_universe/status/1752984578699169819?s=46)
 
 # DeFiEdge Timeline
 
@@ -246,6 +215,37 @@
 [View Tweet](https://x.com/DefiEdge/status/1550872919386968066)  
 ![TVL Milestone](screenshots/tvlmilestone.png)
 
+# Partnership Announcements
+
+### PancakeSwap 
+[View Tweet](https://x.com/pancakeswap/status/1733108453424648666?s=46)
+
+### Thena
+[View Tweet](https://x.com/thenafi_/status/1758459923669594257?s=46)
+
+### Camelot
+[View Tweet](https://x.com/camelotdex/status/1689899001112383488?s=46)
+
+### Silo Labs
+[View Tweet](https://x.com/silofinance/status/1771805002388119822?s=46)
+
+### Lodestar Finance
+[View Tweet](https://x.com/lodestarfi/status/1770007022358110708?s=46)
+
+### Umami 
+[View Tweet](https://x.com/umamifinance/status/1767883318706536875?s=46)
+
+### Lexer Markets
+[View Tweet](https://x.com/umamifinance/status/1767883318706536875?s=46)
+
+### BaseSwap
+[view Tweet](https://x.com/umamifinance/status/1767883318706536875?s=46)
+
+### JonesDAO
+[view Tweet](https://x.com/jonesdao_io/status/1737158816880296351?s=46)
+
+### Arbitrum Universe
+[View Tweet](https://x.com/arb_universe/status/1752984578699169819?s=46)
 
 
 ### Partnership with Nexus Mutual
